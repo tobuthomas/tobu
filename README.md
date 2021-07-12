@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobuthomas
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently persuing Security+ and CISSP Certifications
+- 🌱 CompTIA Security+ 
 - 💞️ I’m looking to collaborate on Network Security, Security programming CISSP prep
 - 📫 How to reach me tobu.thomas@outlook.com
 
