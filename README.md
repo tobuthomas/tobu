@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tobuthomas
+- 👋 Hi, I’m @tobu
 - 👀 I’m interested in Cybersecurity 
 - 🌱 CompTIA Security+ 
 - 💞️ I’m looking to collaborate on Network Security, Security programming CISSP prep
